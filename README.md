@@ -1,6 +1,6 @@
 ## Mason Lauderdale's Profile!
 
-**Current Languages known**: Python and C++
+**Current Languages known**: Python and C++ <br><br>
 **Future Language Interest**: Mojo and Rust
 **Topics of Interest**: Data Science & AI 
 
