@@ -1,8 +1,21 @@
 ## Mason Lauderdale's Profile!
 
-**Current Languages known**: Python and C++ <br><br>
-**Future Language Interest**: Mojo and Rust <br><br>
-**Topics of Interest**: Data Science & AI <br><br>
+### About Me
+I love learning and problem solving! Programming is the ultimate expression of those two passions, as it gives a sastifying outlet and feedback loop to fuel it. 
+My primary programmning interest involve anything backend, data related, desktop applications, GUIs, and some A.I. 
 
-<br><br>Currently trying to master programming and basic design and pattern recognition. 
+### Education 
+I am currently a junior at Tennessee Tech University, working towards my Computer Science degree. 
 
+### Skills
+##### Hard Skills 
+* Python
+  * Tkinter
+  * Flask
+* C++
+* nasm (86x)
+##### Soft Skills
+* Problem-solver
+* Active listener
+* commmunciation
+* Fast learner
