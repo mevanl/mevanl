@@ -17,9 +17,12 @@ I am currently a junior at Tennessee Tech University, working towards my Compute
 * HTML
 * CSS
 * HTMX
+* Git Version Control
+* Bash
 ##### Soft Skills
 * Problem-solver
 * Active listener
 * commmunciation
 * Fast learner
 * Teamplayer
+* Time management
