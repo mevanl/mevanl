@@ -14,6 +14,9 @@ I am currently a junior at Tennessee Tech University, working towards my Compute
   * Flask
 * C++
 * nasm (86x)
+* HTML
+* CSS
+* HTMX
 ##### Soft Skills
 * Problem-solver
 * Active listener
