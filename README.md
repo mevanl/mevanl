@@ -22,3 +22,4 @@ I am currently a junior at Tennessee Tech University, working towards my Compute
 * Active listener
 * commmunciation
 * Fast learner
+* Teamplayer
