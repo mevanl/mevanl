@@ -19,6 +19,8 @@ I am currently a junior at Tennessee Tech University, working towards my Compute
 * HTMX
 * Git Version Control
 * Bash
+* Mongo
+* Docker
 ##### Soft Skills
 * Problem-solver
 * Active listener
