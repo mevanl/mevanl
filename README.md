@@ -1,3 +1,5 @@
-## Mason Lauderdale's Profile!
+I build software and scripts for fun.
 
-* Python and C++
+
+
+
