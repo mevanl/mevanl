@@ -2,7 +2,7 @@
 Software engineer who loves learning and tackling problems
 
  - :newspaper_roll:  Python / C/C++ / Zig / Go / JavaScript 
- - :computer: Fedora 42 Desktop / Debian Laptop 
+ - :computer: Arch Linux Desktop / Debian Laptop 
  - :battery: VSCode / Hyprland / Neovim 
 <!-- hi -->
  - :stars: History, Reading, Computers 
